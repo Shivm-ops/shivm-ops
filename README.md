@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/2I7b1.png" width="800px">
+  <img src="https://i.imgur.com/vIg7Y6g.jpeg" width="800px">
 </p>
+
 
 <h1 align="center">🎮 Welcome to My DevOps Game Zone</h1>
 <p align="center">Leveling up daily in DevOps, Java, .NET & Cloud 🚀</p>
