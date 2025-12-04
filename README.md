@@ -1,91 +1,23 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/vIg7Y6g.jpeg" width="800px">
-</p>
+### 👨‍💻 Terminal
 
+```bash
+user@devops:~$ whoami
+> Your Name
 
-<h1 align="center">🎮 Welcome to My DevOps Game Zone</h1>
-<p align="center">Leveling up daily in DevOps, Java, .NET & Cloud 🚀</p>
+user@devops:~$ cat skills.json
+{
+  "Cloud": ["AWS", "Azure"],
+  "Containerization": ["Docker", "Kubernetes"],
+  "IaC": ["Terraform", "CloudFormation"],
+  "Config_Mgmt": ["Ansible", "Chef"],
+  "CI_CD": ["Jenkins", "GitHub Actions", "GitLab CI"],
+  "Monitoring": ["Prometheus", "Grafana", "ELK Stack"],
+  "Scripting": ["Python", "Bash", "Go"]
+}
 
----
+user@devops:~$ echo "Current Focus"
+> Mastering Service Mesh (Istio) and DevSecOps practices.
 
-## 🧑‍💻 Player Profile
-
-**Username:** `Shivm-ops`  
-**Role:** `DevOps Developer`  
-**Level:** `28`  
-**XP:** `██████████░░░░░░ 78%`  
-**Guild:** `Cloud Warriors ⚔️`  
-
----
-
-## 🕹️ Skills Inventory
-
-💠 **Languages:**  
-`Java` · `C#` · `.NET` · `SQL` · `JavaScript`
-
-⚙️ **DevOps Tools:**  
-`Git` · `GitHub Actions` · `Docker` · `Kubernetes`  
-`Jenkins` · `Ansible` · `Terraform`
-
-☁️ **Cloud Platforms:**  
-`AWS` · `Azure` · `GCP (Basics)`
-
----
-
-## 🗂️ Equipped Projects
-
-🛒 **Grocery Shop Management System**  
-_Type:_ Full-stack (Java + .NET + SQL)  
-_Status:_ ★★★★☆  
-_Link:_ https://github.com/Shivm-ops (Add repo here)
-
-⚡ **CI/CD Pipeline for Web App**  
-_Tools:_ Jenkins + AWS  
-_Status:_ ★★★★★
-
-🤖 **AI Chatbot for Portfolio**  
-_Tools:_ Python + RAG + LangChain  
-_Status:_ ★★★☆☆
-
----
-
-## 🧩 Achievements (Unlocked)
-
-🏆 Built complete CI/CD pipeline  
-🏆 Created 10+ professional web UI designs  
-🏆 Automated deployments with GitHub Actions  
-🏆 Hosted multiple projects on cloud  
-
----
-
-## 📈 Player Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivm-ops&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivm-ops&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
----
-
-## 🔮 Current Mission
-
-- 🔧 Building DevOps pipelines  
-- ☁️ Getting deeper into AWS & Azure  
-- 🎨 Creating next-gen UI with Tailwind  
-- 🤖 Adding AI to applications  
-
----
-
-## 🎧 Game Controls (Contact Me)
-<p align="center">
-  <a href="https://www.linkedin.com/in/shivam-patil-659830351/"><img height="32" src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="mailto:shivampatil2309@gmail.com"><img height="32" src="https://skillicons.dev/icons?i=gmail"/></a>
-  <a href="https://github.com/Shivm-ops"><img height="32" src="https://skillicons.dev/icons?i=github"/></a>
-</p>
-
----
-
-<p align="center">🕹️ <b>Press START to Connect</b> 🚀</p>
+user@devops:~$ ./contact_me.sh
+> LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+> Email: your.email@example.com
