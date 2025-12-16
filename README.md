@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![DevOps Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R6M3R6aHR2MGo4OTBnejNjeDk2czR6dmx5cXk1N2F1enVkYnA4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QuehS8WqM53p02A0l8/giphy.gif)
+![DevOps Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGc5bmF1cnhtcGFsaTUzbzgybGw4a2U0Nms5Mjlnem5ocjQyaGJpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
 
 </div> 
 
@@ -25,7 +25,7 @@
 ![GitHub Cat Animation](https://media.giphy.com/media/du3J3cXyzhj75RFry0/giphy.gif)
 
 
-❶ Namaskar, I'm Shivam Patil form Kolhapur, India 🇮🇳 👋<br> 
+❶ Namaskar, I'm Shivam Patil from Kolhapur, India 🇮🇳 👋<br> 
 ❷ I am a **DevOps Engineer** and a **3rd Year BCS Student** with a passion for Cloud Computing and Automation ☁️<br> 
 ❸ Currently building CI/CD pipelines, deploying on AWS/GCP, and exploring system customization 🐍
 
