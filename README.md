@@ -2,9 +2,9 @@
   
 ━━━━━━━━━━━━━━━━━━━<[ ✧ 𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃 ✧ ]>━━━━━━━━━━━━━━━━━━━
   
-                 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝕏 स्वागत 𝕏 𝗪𝗶𝗹𝗹𝗸𝗼𝗺𝗺𝗲𝗻
+ 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝕏 स्वागत 𝕏 𝗪𝗶𝗹𝗹𝗸𝗼𝗺𝗺𝗲𝗻
   
-     ━━━━━━━━━━━━━━━━━━━<[ ✧ ❖ ✧ ]>━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━<[ ✧ ❖ ✧ ]>━━━━━━━━━━━━━━━━━━━
 
 </div>
 
@@ -68,7 +68,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shivam-patil1&icon=2&color=13)](https://visitcount.itsvg.in)
-![DevRock Coding GIF](https://media1.tenor.com/m/cSW4KCg4WDgAAAAd/bye-byebye.gif)
+
+![Footer Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWp6azVvdjd2YWY1cHp0aG5sdWhwOXdmMnk1ZDZ1NzltMDVuZ2UxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WSTOQm088Cg1zv6cjO/giphy.gif)
 
 ### print("Thanks for visiting Shivam's Profile!!!") 
 ### systemctl stop session
