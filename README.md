@@ -2,15 +2,15 @@
   
 ━━━━━━━━━━━━━━━━━━━<[ ✧ 𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃 ✧ ]>━━━━━━━━━━━━━━━━━━━
   
-                  𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝕏 स्वागत 𝕏 𝗪𝗶𝗹𝗹𝗸𝗼𝗺𝗺𝗲𝗻
+                 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝕏 स्वागत 𝕏 𝗪𝗶𝗹𝗹𝗸𝗼𝗺𝗺𝗲𝗻
   
-      ━━━━━━━━━━━━━━━━━━━<[ ✧ ❖ ✧ ]>━━━━━━━━━━━━━━━━━━━
+     ━━━━━━━━━━━━━━━━━━━<[ ✧ ❖ ✧ ]>━━━━━━━━━━━━━━━━━━━
 
 </div>
 
 <div align="center">
 
-![DevOps Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGc5bmF1cnhtcGFsaTUzbzgybGw4a2U0Nms5Mjlnem5ocjQyaGJpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
+![DevOps Header Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGc5bmF1cnhtcGFsaTUzbzgybGw4a2U0Nms5Mjlnem5ocjQyaGJpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
 
 </div> 
 
@@ -22,7 +22,7 @@
 
 ---
 # 🥷 About Me:
-![GitHub Cat Animation](https://media.giphy.com/media/du3J3cXyzhj75RFry0/giphy.gif)
+![About Me Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRzeWpyMWplanByYWVpZWI1amJyZmhiNnFta3Byb2Z6b2lnNWRjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif)
 
 
 ❶ Namaskar, I'm Shivam Patil from Kolhapur, India 🇮🇳 👋<br> 
