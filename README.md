@@ -1,23 +1,74 @@
-### 👨‍💻 Terminal
+<div align="center">
+  
+━━━━━━━━━━━━━━━━━━━<[ ✧ 𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃 ✧ ]>━━━━━━━━━━━━━━━━━━━
+  
+ 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝕏 स्वागत 𝕏 𝗪𝗶𝗹𝗹𝗸𝗼𝗺𝗺𝗲𝗻
+  
+━━━━━━━━━━━━━━━━━━━<[ ✧ ❖ ✧ ]>━━━━━━━━━━━━━━━━━━━
 
-```bash
-user@devops:~$ whoami
-> Your Name
+</div>
 
-user@devops:~$ cat skills.json
-{
-  "Cloud": ["AWS", "Azure"],
-  "Containerization": ["Docker", "Kubernetes"],
-  "IaC": ["Terraform", "CloudFormation"],
-  "Config_Mgmt": ["Ansible", "Chef"],
-  "CI_CD": ["Jenkins", "GitHub Actions", "GitLab CI"],
-  "Monitoring": ["Prometheus", "Grafana", "ELK Stack"],
-  "Scripting": ["Python", "Bash", "Go"]
-}
+<div align="center">
 
-user@devops:~$ echo "Current Focus"
-> Mastering Service Mesh (Istio) and DevSecOps practices.
+![DevOps Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R6M3R6aHR2MGo4OTBnejNjeDk2czR6dmx5cXk1N2F1enVkYnA4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QuehS8WqM53p02A0l8/giphy.gif)
 
-user@devops:~$ ./contact_me.sh
-> LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-> Email: your.email@example.com
+</div> 
+
+<div align="center">
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FShivam-patil1&label=Explorers&labelColor=%23d9e3f0&countColor=%23033500&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FShivam-patil1)
+
+</div>
+
+---
+# 🥷 About Me:
+![GitHub Cat Animation](https://media.giphy.com/media/du3J3cXyzhj75RFry0/giphy.gif)
+
+
+❶ Namaskar, I'm Shivam Patil form Kolhapur, India 🇮🇳 👋<br> 
+❷ I am a **DevOps Engineer** and a **3rd Year BCS Student** with a passion for Cloud Computing and Automation ☁️<br> 
+❸ Currently building CI/CD pipelines, deploying on AWS/GCP, and exploring system customization 🐍
+
+---
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Shivam-patil1)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YOUR_X_USERNAME)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)  
+
+---
+# 💻 Tech Stack:
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=plastic&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+
+### 🚀 Languages & Frameworks
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
+
+### 🛠️ Tools & Scripting
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
+
+---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shivam-patil1&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shivam-patil1&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-patil1&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Shivam-patil1&theme=neon&no-frame=false&no-bg=false&margin-w=4)
+
+---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Shivam-patil1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Shivam-patil1&icon=2&color=13)](https://visitcount.itsvg.in)
+![DevRock Coding GIF](https://media1.tenor.com/m/cSW4KCg4WDgAAAAd/bye-byebye.gif)
+
+### print("Thanks for visiting Shivam's Profile!!!") 
+### systemctl stop session
